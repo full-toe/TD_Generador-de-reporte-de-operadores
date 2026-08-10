@@ -1,5 +1,6 @@
 # Este script fue diseñado por @full_toe con el fin de generar, en TouchDesigner, un reporte de los operadores que se esten seleccionado para darle contexto a cualquier IA.
 # En TouchDesigner, arrastra este txt, seleccioná los operadores que querés reportar y ejecutá este script con clic derecho en el text DAT sin seleccionarlo: Run Script.
+# Chequee ultima version del proyecto en Github: https://github.com/full-toe/TD_Generador-de-reporte-de-operadores
 #
 # ⚠️ NOTA DE PRIVACIDAD Y SEGURIDAD:
 # Este script analiza la configuración y contenido de los operadores seleccionados. 
