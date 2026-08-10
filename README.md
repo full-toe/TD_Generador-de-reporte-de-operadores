@@ -1,6 +1,6 @@
 # TD_Generador-de-reporte-de-operadores
 
-TouchDesigner Report Generator for AI
+TouchDesigner Report Generator for AI.
 Un script en Python para TouchDesigner diseñado para generar reportes en texto plano de tus operadores y pegarlos directamente en herramientas de Inteligencia Artificial (ChatGPT, Claude, Gemini, etc.).
 Sirve para darle contexto inmediato a la IA sobre qué tenés seleccionado en tu red, cómo están conectados los operadores, si hay errores activos y cuál es el impacto de rendimiento de ese bloque.
 
