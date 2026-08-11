@@ -98,6 +98,7 @@ else:
 
     # --- AVISO DE SEGURIDAD EN EL REPORTE ---
     lines.append("⚠️ AVISO DE PRIVACIDAD: Si alguno de los nodos seleccionados contiene contraseñas, API Keys o datos sensibles, revisalos antes de compartir este reporte públicamente.\n")
+    lines.append("Chequee ultima version del proyecto en Github: https://github.com/full-toe/TD_Generador-de-reporte-de-operadores\n")
 
     # --- DETALLE DE NODOS ---
     lines.append("► NODOS SELECCIONADOS EN LA RED:\n")
